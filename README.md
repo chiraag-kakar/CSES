@@ -8,8 +8,8 @@ The goal of the project is to create a comprehensive high quality problem set fo
 
 
 
-This repository contains the solution to the CSES Problem sets in C++.
 
+This repository contains the solution to the CSES Problem sets in C++.
 
 
 | Problem | C++ | Python | Explanation |
