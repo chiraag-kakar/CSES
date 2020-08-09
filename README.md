@@ -1,5 +1,7 @@
-# Code Submission Evaluation System
-# CSES-Problem-Set
+<img src="https://cses.fi/logo.png?1" />
+
+
+# Code Submission Evaluation System 
 
 The CSES Problem Set is a collection of competitive programming practice problems.
 The goal of the project is to create a comprehensive high quality problem set for learning competitive programming.
