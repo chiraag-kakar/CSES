@@ -16,15 +16,15 @@ This repository contains the solution to the CSES Problem sets in C++.
 | Problem | C++ | Python | Explanation |
 |---|---|---|---|
 | [Problem 1 - Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution]()  | []()  |  N/A |
-| [Problem 2]()  | []()   | []()   | N/A  |
-| [Problem 3]()  | []()   | []()   | N/A  |
-| [Problem 4]()  | []()   | []()   | N/A  |
-| [Problem 5]()  | []()   | []()   | N/A  |
-| [Problem 6]()  | []()   | []()   | N/A  |
-| [Problem 7]()  | []()   | []()   | N/A  |
-| [Problem 8]()  | []()   | []()   | N/A  |
-| [Problem 9]()  | []()   | []()   | N/A  |
-| [Problem 10]()  | []()   | []()   | N/A  |
+| [Problem 2 - Missing Number](https://cses.fi/problemset/task/1083)  | []()   | []()   | N/A  |
+| [Problem 3 - Repetitions](https://cses.fi/problemset/task/1069)  | []()   | []()   | N/A  |
+| [Problem 4 - Increasing Array](https://cses.fi/problemset/task/1094)  | []()   | []()   | N/A  |
+| [Problem 5 - Permutations](https://cses.fi/problemset/task/1070)  | []()   | []()   | N/A  |
+| [Problem 6 - Number Spiral](https://cses.fi/problemset/task/1071)  | []()   | []()   | N/A  |
+| [Problem 7 - Two Knights](https://cses.fi/problemset/task/1072)  | []()   | []()   | N/A  |
+| [Problem 8 - Two Sets](https://cses.fi/problemset/task/1092)  | []()   | []()   | N/A  |
+| [Problem 9 - Bit Strings](https://cses.fi/problemset/task/1617)  | []()   | []()   | N/A  |
+| [Problem 10 - Trailing Zeroes](https://cses.fi/problemset/task/1618)  | []()   | []()   | N/A  |
 | [Problem 11]()  | []()   | []()   | N/A  |
 | [Problem 12]()  | []()   | []()   | N/A  |
 | [Problem 13]()  | []()   | []()   | N/A  |
