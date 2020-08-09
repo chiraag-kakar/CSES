@@ -18,7 +18,7 @@ This repository contains the solution to the CSES Problem sets in C++.
 
 
 
-
+| | | | |
 | Problem | C++ | Python | Explanation |
 |---|---|---|---|
 |  [Problem 1](https://cses.fi/problemset/task/1068) | [Solution]()  | []()  |  N/A |
