@@ -17,8 +17,8 @@ This repository contains the solution to the CSES Problem sets in C++.
 
 | Problem | C++ | Python | Explanation |
 |---|---|---|---|
-| [Problem 1 - Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution 1](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1a.cpp) [Solution 2](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1b.cpp)  | []()  | [View](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1.md) |
-| [Problem 2 - Missing Number](https://cses.fi/problemset/task/1083)  | []()   | []()   | N/A  |
+| [Problem 1 - Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution 1](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1a.cpp) [Solution 2](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1b.cpp)  | [Solution]()  | [View](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1.md) |
+| [Problem 2 - Missing Number](https://cses.fi/problemset/task/1083)  | [Solution](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/2.cpp)   | []()   | [View](https://github.com/chiraag-kakar/CSES/blob/master/Explanation/2.md)  |
 | [Problem 3 - Repetitions](https://cses.fi/problemset/task/1069)  | []()   | []()   | N/A  |
 | [Problem 4 - Increasing Array](https://cses.fi/problemset/task/1094)  | []()   | []()   | N/A  |
 | [Problem 5 - Permutations](https://cses.fi/problemset/task/1070)  | []()   | []()   | N/A  |
