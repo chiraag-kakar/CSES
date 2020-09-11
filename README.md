@@ -17,7 +17,7 @@ This repository contains the solution to the CSES Problem sets in C++.
 
 | Problem | C++ | Python | Explanation |
 |---|---|---|---|
-| [Problem 1 - Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution]()  | []()  |  N/A |
+| [Problem 1 - Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution 1](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1a.cpp) [Solution 2](https://github.com/chiraag-kakar/CSES/blob/master/c%2B%2B/1b.cpp)  | []()  |  N/A |
 | [Problem 2 - Missing Number](https://cses.fi/problemset/task/1083)  | []()   | []()   | N/A  |
 | [Problem 3 - Repetitions](https://cses.fi/problemset/task/1069)  | []()   | []()   | N/A  |
 | [Problem 4 - Increasing Array](https://cses.fi/problemset/task/1094)  | []()   | []()   | N/A  |
