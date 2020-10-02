@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/chiraag-kakar/CSES.svg)](http://hits.dwyl.com/chiraag-kakar/CSES)
+
 <center><img src="https://cses.fi/logo.png?1" /></center>
 
 
