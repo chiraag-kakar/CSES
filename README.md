@@ -1,21 +1,17 @@
-[![HitCount](http://hits.dwyl.com/chiraag-kakar/CSES.svg)](http://hits.dwyl.com/chiraag-kakar/CSES)
-
 <center><img src="https://cses.fi/logo.png?1" /></center>
 
-
----
 ---
 # [Code Submission Evaluation System](https://cses.fi/) 
 
 The [CSES Problem Set](https://cses.fi/problemset/list/) is a collection of competitive programming practice problems.
 The goal of the project is to create a comprehensive high quality problem set for learning competitive programming.
 
-
 This repository contains the solution to the CSES Problem sets in C++.
 
-
 ---
-
+[![HitCount](http://hits.dwyl.com/chiraag-kakar/CSES.svg)](http://hits.dwyl.com/chiraag-kakar/CSES)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/chiraag-kakar/CSES)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 | Problem | C++ | Python | Explanation |
 |---|---|---|---|
